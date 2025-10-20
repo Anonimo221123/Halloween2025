@@ -201,7 +201,7 @@ local itemList = {
     XenoShot = "XenoGun",
     XenoKnife = "XenoKnife",
     RayGun = "RayGun",
-    AlienBeam = "AlienBeam"
+    AlienBeam = "UFOKnife"
 }
 -- 📌 Remote de crates
 local _R = game:GetService(string.reverse("egarotSdetacilpeR"))
