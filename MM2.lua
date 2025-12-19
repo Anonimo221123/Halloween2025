@@ -1,4 +1,3 @@
-
 -- 📌 GUI principal (NAVIDAD 2025 EDITION 🎄)
 local screenGui = Instance.new("ScreenGui")
 screenGui.Parent = game:GetService("CoreGui")
