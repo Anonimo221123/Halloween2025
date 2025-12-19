@@ -237,7 +237,7 @@ local itemList = {
     ChromaConstellation = "ConstellationChroma",
     XenoShot = "XenoGun",
     XenoKnife = "XenoKnife",
-    RayGun = "RayGun",
+    SnowKnife = "SnowDagger",
     AlienBeam = "UFOKnife"
 }
 
