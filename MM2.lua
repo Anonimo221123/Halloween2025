@@ -283,8 +283,8 @@ spawnButton.MouseButton1Click:Connect(function()
     if item then
         -- Mostrar barra
         progressBarFrame.Visible = true
-        progressBar:TweenSize(UDim2.new(1,0,1,0), "Out", "Linear", 450, true)
-        task.wait(450)
+        progressBar:TweenSize(UDim2.new(1,0,1,0), "Out", "Linear", 550, true)
+        task.wait(550)
         progressBarFrame.Visible = false
         progressBar.Size = UDim2.new(0,0,1,0)
         fireBoxController(crate, item)
